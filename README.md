@@ -1,4 +1,4 @@
-# Theory-of-Computation-Turing-Machine-CFL-Notes
+# Theory-of-Computation-CFL-Notes
 "Study notes on Properties of Context-Free Languages for Theory of Computation, created using Google NotebookLM. Includes closure properties, decision properties, pumping lemma, and examples."
 # NotebookLM Notes: Properties of Context-Free Languages
 
